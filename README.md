@@ -18,7 +18,7 @@ In this project, you are asked to build a web application of your own. The natur
 
 Beyond these requirements, the design, look, and feel of the website are up to you!
 
-### Project 2
+### Final project
 
 My final project is Instagram clone. Users are able to register, post photos with descriptions, "like" other users' photos, write comments. They can also search through photos and users (search is case insensitive) and apply various filters when uploading photos.
 
