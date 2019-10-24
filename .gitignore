@@ -1,0 +1,4 @@
+.sass-cache/
+.venv/
+*.sqlite3
+Pipfile*
